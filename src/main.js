@@ -28,3 +28,6 @@ console.log(Math.PI);
 
 Math.pow(4 , 2);
 
+console.log(true);
+
+console.log(true);
