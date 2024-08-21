@@ -1,5 +1,3 @@
-console.log(null);
-
-console.log(undefined);
-
-console.log(noexisto);
+console.log({
+    DineroPorCadaComensal: console.log((120-18)/6)
+});
