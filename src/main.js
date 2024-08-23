@@ -10,3 +10,6 @@ const cliente = {
     }
 };
 
+cliente.nombre = "Ana";
+
+console.log(cliente);
