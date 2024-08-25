@@ -1,12 +1,16 @@
-let nombre = "Paco";
+const nombre = "Paco";
 
-let apellido = "Perez de Alaya";
+const apellido = "Gomez";
 
-console.log(nombre + " " + apellido);
+const nombreCompleto = `nombre: ${nombre} 
+(Otra linea) y el apellido es ${apellido}`;
 
-nombre ={
-    Ciudad: "Madrid",
-    Calle: "Calle cadiz"
-};
+console.log(nombreCompleto);
 
-console.log(nombre + " " + apellido);
+const ciudad = "Madrid";
+
+const edad = 30;
+
+const mensaje = `Hola mi nombre es ${nombre} tengo ${edad} años y vivo en ${ciudad}.`;
+
+console.log(mensaje);
